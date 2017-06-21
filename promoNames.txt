@@ -1,6 +1,6 @@
-Charity Diehl
-Patrick Jones
-Megan Loomis
-David Smith
-Randall Clapper
+Charity Diehl likes things
+Patrick Jones likes stuff
+Megan Loomis doesn't like things
+David Smith doesn't like stuff
+Randall Clapper loves C#, Boo java
 
